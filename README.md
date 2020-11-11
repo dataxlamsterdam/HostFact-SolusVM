@@ -1,4 +1,9 @@
 # HostFact-SolusVM
+
+## OpenVZ Version take the SolusVM directory
+## KVM Version released 11-11-2020 take the SolusVMKVM directory
+## XEN / Xen HVM is coming soon
+
 HostFact module for SolusVM.
 Voeg SolusVM als platform toe aan HostFact met deze module en automatiseer uw vps diensten.
 
@@ -27,7 +32,7 @@ Hiervoor dient er een Plan aangemaakt te worden in SolusVM welke als basis wordt
 De naam van het plan moet 'Custom' zijn en is hoofdletter gevoelig, verdere instellingen zoals Network Speed kunnen naar wens worden afgesteld.
 
 Roadmap:
-- De module voor KVM en Xen HVM beschikbaar stellen als Branches in deze reposority
+- De module voor Xen en Xen HVM beschikbaar stellen in deze reposority
 - Uitbreiding maken dat er meerdere IP adressen aan een VPS kunnen worden toegewezen**
 - Wijzigen van VPS specificaties op moment dat deze al bestaat**
 
