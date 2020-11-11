@@ -1,8 +1,8 @@
 # HostFact-SolusVM
 
-## OpenVZ Version take the SolusVM directory
-## KVM Version released 11-11-2020 take the SolusVMKVM directory
-## XEN / Xen HVM is coming soon
+-> OpenVZ Version take the SolusVM directory
+-> KVM Version released 11-11-2020 take the SolusVMKVM directory
+-> XEN / Xen HVM is coming soon
 
 HostFact module for SolusVM.
 Voeg SolusVM als platform toe aan HostFact met deze module en automatiseer uw vps diensten.
